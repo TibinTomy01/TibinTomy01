@@ -16,7 +16,7 @@ I specialize in bridging the gap between traditional database administration and
 - ⚙️ **Specialties:** T-SQL Optimization, Performance Tuning, and Production Database Reliability.
 - ☁️ **Automation:** Designing CI/CD pipelines for database deployments using Jenkins and GitHub Actions.
 -  **Fun Fact:** I believe a well-indexed table is a work of art.
-
+https://tibintomy01.github.io/portfolio/
 ---
 
 ### Technical Toolbox
